@@ -23,7 +23,7 @@ function CreateCategory() {
         })}
         placeholder="Add a Category"
       />
-      <button>Add</button>
+      <button>Add Category</button>
     </form>
   );
 }
